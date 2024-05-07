@@ -92,7 +92,7 @@
     .conteudo-principal .info p {
         font-size: 14px;
         line-height: 23px;
-        font-weight: 300;
+        font-weight: 250;
     }
 
     .conteudo-principal .info a {
@@ -116,7 +116,9 @@
     }
 }
 
+
 @media(max-width:425px) {
+
     .container .footer {
         display: flex;
         justify-content: center;
