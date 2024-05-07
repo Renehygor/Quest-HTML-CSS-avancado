@@ -22,7 +22,6 @@
         text-align: center;
         margin: 0 auto;
         padding: 0;
-        margin-bottom: 40px;
         gap: 20px;
     }
 
@@ -72,10 +71,10 @@
         display: flex;
         flex-direction: column;
         text-align: center;
-        margin: 0 auto;
+        margin: 40px auto;
         padding: 0;
-        margin-bottom: 40px;
         gap: 20px;
+        
     }
 
     .conteudo-principal img {
