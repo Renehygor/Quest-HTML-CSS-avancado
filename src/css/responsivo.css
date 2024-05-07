@@ -126,6 +126,7 @@
 
     .container .footer ul {
         margin: 0 auto;
+        margin-top: 25px;
     }
 
     .footer ul li {
