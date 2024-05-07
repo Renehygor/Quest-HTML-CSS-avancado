@@ -27,7 +27,7 @@
     }
 
     .conteudo-principal img {
-        max-width: 250px;
+        max-width: 350px;
 
     }
 
@@ -47,6 +47,7 @@
     .conteudo-principal .info a {
         padding: 10px 60px;
         font-size: 12px;
+        margin-bottom: 30px;
     }
 }
 
