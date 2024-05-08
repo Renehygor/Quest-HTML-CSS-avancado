@@ -43,6 +43,7 @@ html {
 }
 
 .conteudo-principal .info a:hover {
+    color: #fff;
     background-color: hsl(300, 69%, 71%);
     transition: 0.3s;
 }
